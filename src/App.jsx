@@ -5,6 +5,7 @@ import Favories from "./pages/favories"
 import SingleGif from "./pages/singleGif"
 import Search from "./pages/search"
 import Home from "./pages/Home"
+
 import GifProvider from "./context/gif-context"
 
 function App() {
