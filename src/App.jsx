@@ -4,8 +4,12 @@ import Categories from "./pages/categories"
 import Favories from "./pages/favories"
 import SingleGif from "./pages/singleGif"
 import Search from "./pages/search"
+<<<<<<< HEAD
 import Home from "./pages/Home"
 
+=======
+import Home from "./pages/home"
+>>>>>>> e6cbbae517720e20bacd8cd17d3384e12e93fd13
 import GifProvider from "./context/gif-context"
 
 function App() {
