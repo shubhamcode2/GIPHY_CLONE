@@ -13,7 +13,7 @@ const GifProvider = ({ children }) => {
   
 
 
-  const gf = new GiphyFetch(import.meta.env.VITE_GIPHY_API_KEY);
+  const gf = new GiphyFetch(import.meta.env.VITE_GIPHY_API_KEY)
 
   return (
     <Gifcontext.Provider
